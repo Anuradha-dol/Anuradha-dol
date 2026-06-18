@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:1E90FF&height=230&section=header&text=Hi,%20I'm%20Anuradha%20Dolamulla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=58&descSize=18" width="100%" />
 
 <h3 align="center">
-  IT Undergraduate @ SLIIT · Full-Stack Developer · Java / Spring Boot / React
+  IT Undergraduate @ SLIIT · Full-Stack Developer · Software Engineering Enthusiast
 </h3>
 
 <p align="center">
@@ -16,17 +16,17 @@
 
 I’m **Anuradha Dolamulla**, an IT undergraduate at **SLIIT** with a strong interest in full-stack web development, secure authentication systems, real-time applications, and practical software solutions.
 
-I enjoy building applications using **Java, Spring Boot, React, JavaScript, MySQL, PostgreSQL, MongoDB, WebSocket, JWT, OAuth2, REST APIs, and modern frontend technologies**.
+I enjoy building real-world applications that include user management, authentication, role-based access control, real-time communication, dashboards, notifications, and database-driven workflows.
 
 - 🔭 Currently improving my full-stack portfolio and internship-ready skills  
-- 🔐 Interested in authentication, authorization, JWT, OAuth2, OTP, and secure web systems  
-- 💬 Experienced in real-time systems using WebSocket and Socket.IO  
-- 🎯 Goal: Become a skilled software engineer with strong practical project experience  
-- 📚 Always learning, improving, and building real-world applications  
+- 🔐 Interested in secure authentication, authorization, OTP, JWT, OAuth2, and protected user flows  
+- 💬 Experienced in building real-time features such as chat systems and notifications  
+- 🚀 Passionate about converting ideas into complete working software systems  
+- 📚 Always learning, improving, and building one project at a time  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,express,html,css,mysql,postgres,mongodb,php,git,github,vscode,idea,figma,postman" />
@@ -40,13 +40,20 @@ I enjoy building applications using **Java, Spring Boot, React, JavaScript, MySQ
 
 <p>
   <img src="https://img.shields.io/github/stars/Anuradha-dol/UnilearnhubRepo?style=for-the-badge&logo=github&label=Stars" />
-  <img src="https://img.shields.io/github/last-commit/Anuradha-dol/UnilearnhubRepo?style=for-the-badge&label=Last%20Commit" />
-  <img src="https://img.shields.io/github/languages/top/Anuradha-dol/UnilearnhubRepo?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Anuradha-dol/UnilearnhubRepo?style=for-the-badge&label=Last%20Update" />
 </p>
 
-A full-stack learning and student support platform with authentication, profile management, problem asking, real-time support chat, website requests, resources, tasks, knowledge sharing, and notifications.
+A university learning and student support platform designed to improve academic communication, resource sharing, problem solving, and student support.
 
-**Tech Stack:** Spring Boot, React, PostgreSQL, JWT, OTP, WebSocket, SSE, SMTP, REST API
+**Key Features**
+- User registration, login, and profile management  
+- Problem asking system for students  
+- Real-time user-to-user support chat  
+- Real-time user-to-admin support chat  
+- Website request handling system  
+- Resource sharing and knowledge sharing modules  
+- Personal task and admin task management  
+- Notification flow for important user activities  
 
 🔗 **Repository:** [UnilearnhubRepo](https://github.com/Anuradha-dol/UnilearnhubRepo)
 
@@ -56,29 +63,43 @@ A full-stack learning and student support platform with authentication, profile 
 
 <p>
   <img src="https://img.shields.io/github/stars/Anuradha-dol/it3030-paf-2026-smart-campus-Group_Project-WE-42?style=for-the-badge&logo=github&label=Stars" />
-  <img src="https://img.shields.io/github/last-commit/Anuradha-dol/it3030-paf-2026-smart-campus-Group_Project-WE-42?style=for-the-badge&label=Last%20Commit" />
-  <img src="https://img.shields.io/github/languages/top/Anuradha-dol/it3030-paf-2026-smart-campus-Group_Project-WE-42?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Anuradha-dol/it3030-paf-2026-smart-campus-Group_Project-WE-42?style=for-the-badge&label=Last%20Update" />
 </p>
 
-A smart campus operations system for university services, including secure authentication, authorization, user management, booking workflows, resource management, and real-time notifications.
+A smart campus management system created to centralize university services and improve campus resource handling, booking workflows, and user access.
 
-**Tech Stack:** Spring Boot, React, MySQL, Spring Security, JWT, OAuth2, WebSocket, JPA/Hibernate
+**Key Features**
+- Secure user registration and login  
+- Role-based access control for different users  
+- OTP verification and account protection  
+- Google login support  
+- Face ID login support  
+- Campus resource and facility management  
+- Booking request approval and rejection flow  
+- Real-time notifications for booking updates  
 
 🔗 **Repository:** [Smart Campus Operations Hub](https://github.com/Anuradha-dol/it3030-paf-2026-smart-campus-Group_Project-WE-42)
 
 ---
 
-### 03. Spring Boot + React Real-Time Chat Application
+### 03. Real-Time Chat Application
 
 <p>
   <img src="https://img.shields.io/github/stars/Anuradha-dol/springboot-react-realtime-chat?style=for-the-badge&logo=github&label=Stars" />
-  <img src="https://img.shields.io/github/last-commit/Anuradha-dol/springboot-react-realtime-chat?style=for-the-badge&label=Last%20Commit" />
-  <img src="https://img.shields.io/github/languages/top/Anuradha-dol/springboot-react-realtime-chat?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Anuradha-dol/springboot-react-realtime-chat?style=for-the-badge&label=Last%20Update" />
 </p>
 
-A secure real-time chat application built with Spring Boot and React, focusing on real-time messaging, JWT authentication, HTTP-only cookie handling, and WebSocket communication.
+A secure real-time chat system focused on fast messaging, user interaction, and account-based communication.
 
-**Tech Stack:** Spring Boot, React, Java, WebSocket, JWT, HTTP-only Cookies, REST API
+**Key Features**
+- Secure user authentication  
+- One-to-one real-time messaging  
+- Group chat support  
+- Typing indicators  
+- Online user status  
+- Message seen status  
+- Profile management  
+- Protected user access  
 
 🔗 **Repository:** [springboot-react-realtime-chat](https://github.com/Anuradha-dol/springboot-react-realtime-chat)
 
@@ -88,65 +109,81 @@ A secure real-time chat application built with Spring Boot and React, focusing o
 
 <p>
   <img src="https://img.shields.io/github/stars/Anuradha-dol/mern-chat-app-jwt-socketio?style=for-the-badge&logo=github&label=Stars" />
-  <img src="https://img.shields.io/github/last-commit/Anuradha-dol/mern-chat-app-jwt-socketio?style=for-the-badge&label=Last%20Commit" />
-  <img src="https://img.shields.io/github/languages/top/Anuradha-dol/mern-chat-app-jwt-socketio?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Anuradha-dol/mern-chat-app-jwt-socketio?style=for-the-badge&label=Last%20Update" />
 </p>
 
-A full-stack MERN chat application with secure JWT authentication, MongoDB data handling, and real-time communication using Socket.IO.
+A modern real-time chat application designed for smooth direct communication and interactive user experience.
 
-**Tech Stack:** MongoDB, Express.js, React, Node.js, JWT, Socket.IO
+**Key Features**
+- User registration and login  
+- Direct real-time messaging  
+- Group chat functionality  
+- User profile handling  
+- Message delivery flow  
+- Chat list and conversation management  
+- Responsive user interface  
 
 🔗 **Repository:** [mern-chat-app-jwt-socketio](https://github.com/Anuradha-dol/mern-chat-app-jwt-socketio)
 
 ---
 
-### 05. First Spring Boot Social Media Website
+### 05. Social Media Web Application
 
 <p>
   <img src="https://img.shields.io/github/stars/Anuradha-dol/first-spring-boot-social-media-website?style=for-the-badge&logo=github&label=Stars" />
-  <img src="https://img.shields.io/github/last-commit/Anuradha-dol/first-spring-boot-social-media-website?style=for-the-badge&label=Last%20Commit" />
-  <img src="https://img.shields.io/github/languages/top/Anuradha-dol/first-spring-boot-social-media-website?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Anuradha-dol/first-spring-boot-social-media-website?style=for-the-badge&label=Last%20Update" />
 </p>
 
-A full-stack social media web application with authentication, posts, profile management, cover images, follow/unfollow, notifications, and support features.
+A social media platform built to support user connections, content sharing, profile management, and interactive communication.
 
-**Tech Stack:** Spring Boot, React, JavaScript, JWT, REST API, MySQL
+**Key Features**
+- User registration and login  
+- Create and manage posts  
+- Like and comment system  
+- Follow and unfollow users  
+- User feed and profile pages  
+- Profile and cover image management  
+- Notification and support features  
 
 🔗 **Repository:** [first-spring-boot-social-media-website](https://github.com/Anuradha-dol/first-spring-boot-social-media-website)
 
 ---
 
-### 06. Spring Boot JWT Cookie Authentication System
+### 06. Secure Authentication System
 
 <p>
   <img src="https://img.shields.io/github/stars/Anuradha-dol/springboot-jwt-cookie-auth?style=for-the-badge&logo=github&label=Stars" />
-  <img src="https://img.shields.io/github/last-commit/Anuradha-dol/springboot-jwt-cookie-auth?style=for-the-badge&label=Last%20Commit" />
-  <img src="https://img.shields.io/github/languages/top/Anuradha-dol/springboot-jwt-cookie-auth?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Anuradha-dol/springboot-jwt-cookie-auth?style=for-the-badge&label=Last%20Update" />
 </p>
 
-A secure authentication and account management REST API focused on JWT authentication, HTTP-only cookies, Spring Security, OTP verification, and protected user flows.
+A secure account management system focused on authentication, authorization, account verification, and protected user actions.
 
-**Tech Stack:** Spring Boot, Spring Security, JWT, HTTP-only Cookies, REST API, Java
+**Key Features**
+- User registration and login  
+- Email verification with OTP  
+- Forgot password verification flow  
+- Email change verification flow  
+- Secure account deletion flow  
+- Protected user access  
+- Cookie-based secure login handling  
 
 🔗 **Repository:** [springboot-jwt-cookie-auth](https://github.com/Anuradha-dol/springboot-jwt-cookie-auth)
 
 ---
 
-## 📌 Selected Academic Work
+## 📂 More Projects
+
+I have also worked on academic and personal projects related to online examination systems, medicine management systems, Android UI prototypes, vehicle selling systems, and database-driven web applications.
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Anuradha-dol/apex-exam-online-examination-system?style=for-the-badge&logo=github&label=Apex%20Exam%20Stars" />
-  <img src="https://img.shields.io/github/stars/Anuradha-dol/medicare-plus-online-medicine-management-system?style=for-the-badge&logo=github&label=MediCare%20Stars" />
-  <img src="https://img.shields.io/github/stars/Anuradha-dol/practiceport-android-wellness-tracker?style=for-the-badge&logo=github&label=PracticePort%20Stars" />
+  <a href="https://github.com/Anuradha-dol?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20More%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
-I also work on academic and personal projects using PHP, Java JSP/Servlets, Kotlin Android, JavaScript, and database-driven web applications.
-
-🔗 **Explore more repositories:** [github.com/Anuradha-dol?tab=repositories](https://github.com/Anuradha-dol?tab=repositories)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anuradha-dol&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -159,6 +196,17 @@ I also work on academic and personal projects using PHP, Java JSP/Servlets, Kotl
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuradha-dol&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 📌 Recommended Pinned Repositories
+
+1. [UnilearnhubRepo](https://github.com/Anuradha-dol/UnilearnhubRepo)  
+2. [Smart Campus Operations Hub](https://github.com/Anuradha-dol/it3030-paf-2026-smart-campus-Group_Project-WE-42)  
+3. [springboot-react-realtime-chat](https://github.com/Anuradha-dol/springboot-react-realtime-chat)  
+4. [mern-chat-app-jwt-socketio](https://github.com/Anuradha-dol/mern-chat-app-jwt-socketio)  
+5. [first-spring-boot-social-media-website](https://github.com/Anuradha-dol/first-spring-boot-social-media-website)  
+6. [springboot-jwt-cookie-auth](https://github.com/Anuradha-dol/springboot-jwt-cookie-auth)  
 
 ---
 
@@ -176,7 +224,7 @@ I also work on academic and personal projects using PHP, Java JSP/Servlets, Kotl
 ---
 
 <p align="center">
-  <b>“Building practical software, learning every day, and improving one project at a time.”</b>
+  <b>Building practical software, learning every day, and improving one project at a time.</b>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00C9A7&height=120&section=footer" width="100%" />
