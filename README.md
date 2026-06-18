@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:1E90FF&height=230&section=header&text=Hi,%20I'm%20Anuradha%20Dolamulla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:1E90FF&height=230&section=header&text=Hi,%20I'm%20Anuradha%20Dolamulla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20MERN%20Stack&descAlignY=58&descSize=18" width="100%" />
+
 
 <h3 align="center">
   IT Undergraduate @ SLIIT · Full-Stack Developer · Software Engineering Enthusiast
@@ -29,8 +30,14 @@ I enjoy building real-world applications that include user management, authentic
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,express,html,css,mysql,postgres,mongodb,php,git,github,vscode,idea,figma,postman" />
+  <b>MERN Stack</b><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN Stack Icons" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,express,html,css,mysql,postgres,mongodb,php,git,github,vscode,idea,figma,postman" alt="Tech Stack Icons" />
+</p>
+
 
 ---
 
