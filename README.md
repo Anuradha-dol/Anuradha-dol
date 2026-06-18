@@ -30,13 +30,9 @@ I enjoy building real-world applications that include user management, authentic
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <b>MERN Stack</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,express,mongodb,html,css,mysql,postgres,php,git,github,vscode,idea,figma,postman" alt="Tech Stack Icons" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,express,html,css,mysql,postgres,mongodb,php,git,github,vscode,idea,figma,postman" alt="Tech Stack Icons" />
-</p>
 
 
 ---
