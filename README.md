@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:1E90FF&height=230&section=header&text=Hi,%20I'm%20Anuradha%20Dolamulla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Undergraduate%20%7C%20Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20MERN%20Stack&descAlignY=58&descSize=18" width="100%" />
 
-
 <h3 align="center">
   IT Undergraduate @ SLIIT · Full-Stack Developer · Software Engineering Enthusiast
 </h3>
@@ -9,6 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=Anuradha-dol&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Anuradha-dol?label=Followers&style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=for-the-badge" />
+  <a href="https://illustrious-shortbread-a103ac.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C9A7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -19,6 +21,7 @@ I’m **Anuradha Dolamulla**, an IT undergraduate at **SLIIT** with a strong int
 
 I enjoy building real-world applications that include user management, authentication, role-based access control, real-time communication, dashboards, notifications, and database-driven workflows.
 
+- 🌐 Portfolio: [View My Portfolio](https://illustrious-shortbread-a103ac.netlify.app/)
 - 🔭 Currently improving my full-stack portfolio and internship-ready skills  
 - 🔐 Interested in secure authentication, authorization, OTP, JWT, OAuth2, and protected user flows  
 - 💬 Experienced in building real-time features such as chat systems and notifications  
@@ -32,8 +35,6 @@ I enjoy building real-world applications that include user management, authentic
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,express,mongodb,html,css,mysql,postgres,php,git,github,vscode,idea,figma,postman" alt="Tech Stack Icons" />
 </p>
-
-
 
 ---
 
@@ -115,7 +116,7 @@ A secure real-time chat system focused on fast messaging, user interaction, and 
   <img src="https://img.shields.io/github/last-commit/Anuradha-dol/mern-chat-app-jwt-socketio?style=for-the-badge&label=Last%20Update" />
 </p>
 
-A modern real-time chat application designed for smooth direct communication and interactive user experience.
+A modern real-time chat application designed for smooth direct communication and an interactive user experience.
 
 **Key Features**
 - User registration and login  
@@ -176,11 +177,14 @@ A secure account management system focused on authentication, authorization, acc
 
 ## 📂 More Projects
 
-I have also worked on academic and personal projects related to online examination systems, medicine management systems, Android UI prototypes, vehicle selling systems, and database-driven web applications.
+I have also worked on academic and personal projects related to online examination systems, medicine management systems, Android UI prototypes, vehicle selling systems, QA automation, and database-driven web applications.
 
 <p align="center">
   <a href="https://github.com/Anuradha-dol?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20More%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://illustrious-shortbread-a103ac.netlify.app/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-00C9A7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
 
@@ -216,6 +220,9 @@ I have also worked on academic and personal projects related to online examinati
 ## 📫 Connect With Me
 
 <p align="center">
+  <a href="https://illustrious-shortbread-a103ac.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-00C9A7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/anuradha-dollamulla-454354386">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
