@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Anuradha-dol&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Anuradha-dol?label=Followers&style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=for-the-badge" />
-  <a href="https://illustrious-shortbread-a103ac.netlify.app/">
+  <a href="https://anuradha-dolamulla-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C9A7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
@@ -21,7 +21,7 @@ I’m **Anuradha Dolamulla**, an IT undergraduate at **SLIIT** with a strong int
 
 I enjoy building real-world applications that include user management, authentication, role-based access control, real-time communication, dashboards, notifications, and database-driven workflows.
 
-- 🌐 Portfolio: [View My Portfolio](https://illustrious-shortbread-a103ac.netlify.app/)
+- 🌐 Portfolio: [View My Portfolio](https://anuradha-dolamulla-portfolio.netlify.app/)
 - 🔭 Currently improving my full-stack portfolio and internship-ready skills  
 - 🔐 Interested in secure authentication, authorization, OTP, JWT, OAuth2, and protected user flows  
 - 💬 Experienced in building real-time features such as chat systems and notifications  
